@@ -1,0 +1,8 @@
+All List
+SELECT *
+FROM dove_guide
+ORDER BY ISO3166code, Place, Place2
+
+CountryList
+SELECT DISTINCT CASE Country WHEN "" THEN "Great Britain" ELSE Country END
+FROM dove_guide

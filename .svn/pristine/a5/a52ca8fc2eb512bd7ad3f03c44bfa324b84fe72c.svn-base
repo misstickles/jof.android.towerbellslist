@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/browse_tower_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true" />
+
+    <ImageView
+	    android:layout_width="16dip"
+	    android:layout_height="16dip"
+	    android:layout_margin="3dip"
+	    android:background="#00FFFFFF"
+	    android:contentDescription="@string/string_alt_position_icon"
+	    android:src="@drawable/ic_chevron"
+	    android:layout_alignParentRight="true"
+	    android:layout_centerInParent="true" />
+    
+    <TextView
+        android:id="@+id/browse_practice_night_text"
+        android:layout_width="70dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/browse_tower_text" />
+        
+    <TextView
+        android:id="@+id/browse_no_bells_text"
+        android:layout_width="25dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/browse_tower_text"
+        android:layout_toRightOf="@+id/browse_practice_night_text" />
+
+    <TextView
+        android:id="@+id/browse_weight_text"
+        android:layout_width="120dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/browse_tower_text"
+        android:layout_toRightOf="@+id/browse_no_bells_text" />
+    
+    <TextView
+        android:id="@+id/browse_distance_text"
+        android:layout_width="70dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/browse_tower_text"
+        android:layout_toRightOf="@+id/browse_weight_text" />
+    
+</RelativeLayout>

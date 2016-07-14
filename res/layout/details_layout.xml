@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/details_layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        style="@style/ItemRow"
+        android:gravity="center_horizontal|center_vertical" >
+
+        <TextView
+            android:id="@+id/details_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dip" />
+
+        <ImageView
+            android:id="@+id/details_location_image"
+            android:layout_width="16dip"
+            android:layout_height="16dip"
+            android:layout_margin="3dip"
+            android:background="#00FFFFFF"
+            android:contentDescription="@string/string_alt_position_icon"
+            android:src="@drawable/ic_position"
+            android:clickable="true" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/details_satnav_position_layout"
+        style="@style/ItemRow"
+        android:gravity="center_horizontal|center_vertical" >
+
+        <TextView
+            android:id="@+id/details_satnav_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dip" />
+
+        <ImageView
+            android:id="@+id/details_location_satnav_image"
+            android:layout_width="16dip"
+            android:layout_height="16dip"
+            android:layout_margin="3dip"
+            android:background="#00FFFFFF"
+            android:contentDescription="@string/string_alt_position_icon"
+            android:src="@drawable/ic_position"
+            android:clickable="true" />
+    </LinearLayout>
+    
+    <LinearLayout style="@style/ItemRow"
+        android:id="@+id/details_additional_location_layout">"
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/additional_location_text" />
+
+	    <TextView
+	        android:id="@+id/details_additional_location_text"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/county_text" />
+
+	    <TextView
+	        android:id="@+id/details_county_country_text"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/postcode_text" />
+
+        <TextView
+            android:id="@+id/details_postcode_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/grid_ref_text" />
+
+        <TextView
+            android:id="@+id/details_grid_ref_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/diocese_text" />
+
+        <TextView
+            android:id="@+id/details_diocese_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/affiliation_text" />
+
+        <TextView
+            android:id="@+id/details_affiliation_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            android:id="@+id/details_aka"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/bells_text" />
+
+        <TextView
+            android:id="@+id/details_no_bells_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/details_weight_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_key_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/practice_details" />
+
+        <TextView
+            android:id="@+id/details_practice_night_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/details_practice_time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow" >
+        <TextView
+            android:id="@+id/details_ground_floor_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_uringable_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            style="@style/DescTitle.FullWidth"
+            android:text="@string/details_notes_text"
+            android:textSize="15dip" />
+
+        <TextView
+            android:id="@+id/details_extra_info_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_prxf_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_toilet_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_tower_base_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_contractor_and_date_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/details_date_tuned_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+        <TextView
+            android:id="@+id/details_web_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        
+    </LinearLayout>
+
+</LinearLayout>

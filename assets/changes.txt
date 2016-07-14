@@ -1,0 +1,200 @@
+ChDate\Place\County\Bells\ChDetail\Source\Route\Retain\DoveID
+12/07/12\Cleeve Prior\Worcs\6\Not GF: rung from a gallery\Andrew Aspland; David Bagley\e-mail\Y\CLEEVE PRI
+11/07/12\Pulborough\W Sussex\8\Note removed about presence of cracked bell\Andrew Higson\pNBR\N\PULBOROUGH
+11/07/12\St Albans, S Peter\Herts\10\URL amended; presence of simulator noted\Edward Mack\e-mail\N\SAI ALBNSP
+10/07/12\Frosterley, Black Bull Inn\Durham\12\URL added\2012/706\RW\N\FROSTERLEY
+09/07/12\Melbourne\Derbys\12\Ringing position (slightly) modified\Phil Gay\e-mail\Y\MELBOURNE
+06/07/12\Norwich, Coslany\Norfolk\8\Twr wk completed; bells ringable BUT on restricted terms ..\..(no peals or qrs); PN info tbc: Faith Pearce\e-mail\N\NORWICH MI
+06/07/12\South Petherwin\Cornwall\6\Dove tenor wt (& nominal) made consistent with pNBR values\Andrew Higson (at request of Tim Jackson)\e-mail\Y\SOUTH PETW
+06/07/12\Surfleet\Lincs\12\Dedication amended (from Lawrence)\Richard Christmas (Crockford compiler) via B Webster\e-mail\Y\SURFLEET
+05/07/12\Addingham\W Yorks\6\URL amended\Matthew Blurton\URLbad\N\ADDINGHAM
+05/07/12\Blackburn Cath\Lancs\10\URL amended\Ray Hutchings\e-mail\N\BLACKBURN
+05/07/12\Great Waltham\Essex\8\Ringing suspended till Spring 2013: tower repointing\Doug Davis (info: tower correspondent)\e-mail\Y\GREAT WALT
+05/07/12\Ilkley\W Yorks\8\URL amended\Matthew Blurton\URLbad\N\ILKLEY
+05/07/12\Little Brickhill\Bucks\3\Unringable added: 'tower and frame issues'\Paul Mason (JT)\e-mail\\LITTLE BRI
+05/07/12\London, S Dunstan-in-the-West\C London\10\URL amended\Dickon Love\e-mail\N\LONDON14DW
+05/07/12\London, S James Garlickhythe\C London\8\URL amended\Dickon Love\e-mail\N\LONDON16JG
+01/07/12\Wonston\Hants\6\Tenor note nearer Ab than G (nominal: Ab-42c)\Dave Kelly tonal analysis\e-mail\Y\WONSTON
+30/06/12\Addingham\W Yorks\6\URL added\Andrew Drury\e-mail\N\ADDINGHAM
+30/06/12\Edwalton\Notts\6\PN has changed to Wed (from Fri)\Mary Stephens\e-mail\N\EDWALTON
+30/06/12\Farnborough\Gr London\6\URL amended (yet again)\JCB search\URLbad\N\FARNBOROKE
+30/06/12\Ilkley\W Yorks\8\URL added\Andrew Drury\e-mail\N\ILKLEY
+30/06/12\Thurston\Suffolk\6\Now a ring of 6: augmented by WBF\Alan Hughes (WBF)\e-mail\Y\THURSTON
+29/06/12\Aller\Som\6\PN changed (was Mon morning) ... but contact Tower Captain\David Floyd (info: Anne Michell)\e-mail\Y\ALLER
+29/06/12\Clitheroe\Lancs\8\Ringing suspended (spire rebuild) until Nov 2012\M Chester(info: Campanophile via W Wilkinson); S Ridley\e-mail\N\CLITHEROE
+29/06/12\Collingbourne Ducis\Wilts\6\Now ringing again\John Paul Adams (via Tim Jackson)\e-mail\N\COLLINGBDU
+29/06/12\East Coker\Som\8\Fri practice is at 6.30 and NOT always\David Floyd (per Lesley Lindsay)\e-mail\Y\EAST COKER
+29/06/12\Gussage All Ss\Dorset\5\Note added about 2nd being u/r at present (collapsed h/s)\Matthew Higby\e-mail\N\GUSSAGE AL
+29/06/12\Norwich, S Giles\Norfolk\8\Bells now able to be rung again\Faith Pearce\e-mail\N\NORWICH GI
+29/06/12\Shipton Bellinger\Hants\3\Tenor wt available\Andrew Higson\pNBR\\SHIPTON BE
+17/06/12\Edinburgh, SS Andrew & George\C Edin\8\'Suspension' apparently only applies to visiting bands\Mike Chester (info: tower website, SACR website)\e-mail\Y\EDINBURGHA
+17/06/12\Marystow\Devon\6\Changed from\MARYSTOWE\PKchge\P\MARYSTOW
+17/06/12\Marystow\Devon\6\Placename amended to OS presentation (rather than RHD)\Tim Bayton\e-mail\\MARYSTOW
+16/06/12\Esher\Surrey\8\Ringing suspension inferred as being lifted\John Allen (peal report, RW2012/p621)\e-mail\N\ESHER
+16/06/12\Shipton Bellinger\Hants\3\Unringable status added (as per W&P 2011 Report)\Dave Kelly (from inspection of installation)\e-mail\\SHIPTON BE
+15/06/12\Bangor\Down\8\Ringing suspended UFN after fire in church\RW2012/p617\RW\Y\BANGOR  D
+15/06/12\Bow\Gr London\8\Ring was tuned to OCP thus tenor is F and not F#\Richard Offen (also JCB suspicion)\e-mail\Y\BOW  LONDO
+14/06/12\Bow\Gr London\8\Ring is nearer F# Intl Pitch than F (but exactly F OCP)\Philip Denton nominals\e-mail\Y\BOW  LONDO
+14/06/12\Ossett\W Yorks\12\Augmentation under way\Paul Mason\e-mail\N\OSSETT
+14/06/12\South Petherwin\Cornwall\6\Restoration (JT) complete\Paul Mason\e-mail\N\SOUTH PETW
+14/06/12\Whitchurch Canonicorum\Dorset\8\Restoration (JT) complete\Paul Mason\e-mail\N\WHITCHCHCA
+14/06/12\York, S John Ouse Bridge\N Yorks\6\Limited nature of ringing here now more accurately described\Tim Jackson (info: David Potter)\e-mail\Y\YORK   ZJN
+13/06/12\London, S James Garlickhythe\C London\8\Bells now removed from barge; to be installed wef 18/06/12\Dickon Love\e-mail\N\LONDON16JG
+12/06/12\Exton\Som\6\PN info added (but may be 'a temporary measure')\David Floyd (info:Caroline Darley)\e-mail\Y\EXTON SOM
+11/06/12\Ilford\Gr London\8\Note added about service bell also being hung for ringing\TimJ#184\e-mail\Y\ILFORD
+11/06/12\Pakefield\Suffolk\8\PN removed: no practice at present; URL added\Neal Dodge (conf: NDA website)\e-mail\Y\PAKEFIELD
+11/06/12\Tockwith\N Yorks\3\No longer unringable\TimJ#184 (info: A Mills)\e-mail\\TOCKWITH
+11/06/12\Warslow\Staffs\3\No longer unringable\TimJ#184 (info: Andrew Mills)\e-mail\\WARSLOW
+10/06/12\Alvechurch\Worcs\8\Revised tenor wt; restoration now completed (1,2,8 recast)\Mike Chester (info: WofA website)\e-mail\Y\ALVECHURCH
+10/06/12\Bicknoller\Som\5\PN info added\David Floyd (info: Peter Darke, TC)\e-mail\Y\BICKNOLLER
+10/06/12\Kempsey\Worcs\8\Augmented to 8\Mike Chester (info: Campanophile, church website)\e-mail\Y\KEMPSEY
+10/06/12\Old Cleeve\Som\8\PN arrangement changed\David Floyd (info: John West)\e-mail\Y\OLD CLEEVE
+09/06/12\Bristol, Redcliffe\C Bris\12\PN start time added; URL added\JCB search\www\Y\BRISTOL 21
+08/06/12\Cropthorne\Worcs\6\PN info added\Tower website\www\Y\CROPTHORNE
+08/06/12\Fladbury\Worcs\8\PN info added\Tower website\www\Y\FLADBURY
+08/06/12\Llanfihangel Tal-y-llyn\Powys\4\Spelling changed to match OS presentation\Footnote: Lewis, Henry Williams ...Glasbury Bellfounder\JCB\Y\LLANFIHTAL
+07/06/12\Bosley\Cheshire\6\PN info added\Bill Dowse\e-mail\Y\BOSLEY
+07/06/12\Cropthorne\Worcs\6\Tenor note is not G (nominal: F#+30c)\Chris Pickford\pNBR\Y\CROPTHORNE
+06/06/12\Farnborough\Gr London\6\URL amended\Keith Gatman\e-mail\N\FARNBOROKE
+05/06/12\Hardingstone\Northants\5\Ringing now takes place from a gallery (ie, no longer GF)\Graham Paul\e-mail\Y\HARDINGSTO
+04/06/12\Severn Stoke\Worcs\5\Reported as now ringable\Mark Regan\e-mail\Y\SEVERN STO
+01/06/12\Farnborough\Gr London\6\Ring now installed\Andrew Higson\Verbal\Y\FARNBOROKE
+01/06/12\Tidmington\Warks\3\Bells removed (to JT) for roof repairs & eventual restn\Mike Chester\e-mail\\TIDMINGTON
+31/05/12\Alveston\Glos\6\Tenor note not F (nominal: A+11c)\Dave Kelly nominals\pNBR\Y\ALVESTON G
+31/05/12\Frodsham\Cheshire\8\Repair work on tower completed earlier than expected\Mike Chester(Campanophile; info from Duncan Hyde)\e-mail\N\FRODSHAM
+31/05/12\Melbourne, Burnley\Vict\6\Practice suspended until end Sept 2012\Simon McMillan\e-mail\N\MELBOURNE5
+29/05/12\Bishops Lydeard\Som\8\Tenor note amended\G&J info (via AAJB)\pNBR\Y\BISHOPS LY
+29/05/12\Yealmpton\Devon\6\Tenor wt amended\Ryan Trout (G&J value in tower)\pNBR\Y\YEALMPTON
+28/05/12\Rushden\Northants\8\URL amended\Xenu check\e-mail\N\RUSHDEN N
+26/05/12\Sunderland, Minster\Tyne&Wear\10\Augmentation to 10 (new frame) now completed; old frame rmvd\Mike Chester\e-mail\Y\SUNDERLNDB
+26/05/12\Willingale\Essex\6\Restoration work completed; re-dedication service: 27/05/12\Phone call to Jane Cass, Chwdn\JCB\N\WILLINGALE
+25/05/12\London, S James Garlickhythe\C London\8\Bells 1-8 & frame temporarily installed on a barge\Dickon Love\e-mail\N\LONDON16JG
+24/05/12\Awbridge, Clock House Bells\Hants\10\URL added\Campanophile info\JCB\N\AWBRIDGE
+24/05/12\Easton on the Hill\Northants\6\Wed PN added; 20:00 start\JCB - from website info\www\Y\EASTON ONH
+24/05/12\Lympne\Kent\6\4 appears to be cracked; no visiting bands pro tem\Mike Chester (info: KCA website via B Butcher)\e-mail\N\LYMPNE
+23/05/12\Ashwick\Som\6\No longer a Mon PN\David Floyd(info: Caroline Stevens)\e-mail\Y\ASHWICK
+23/05/12\Charminster\Dorset\10\PN info added\Alan Frost\e-mail\Y\CHARMINSTE
+23/05/12\Easton on the Hill\Northants\6\URL added\James Thorpe\e-mail\N\EASTON ONH
+23/05/12\Ickleford\Herts\5\Flag about cracked 5th added\Consistency check\JCB\Y\ICKLEFORD
+21/05/12\Bristol, Ss P'ip'n'J\C Bris\8\Ringing has resumed\Philip Pratt\e-mail\N\BRISTOL 27
+21/05/12\Dilhorne\Staffs\6\Ring key amended\Andrew Higson\e-mail\Y\DILHORNE
+21/05/12\Leiston\Suffolk\8\Tenor wt amended (was 20-2-3)\Andrew Higson (JT file info)\pNBR\Y\LEISTON
+21/05/12\Shirland\Derbys\6\Bells now ringable; re-dedicated 20/05/12\TimJ (info: Pat Halls)\e-mail\Y\SHIRLAND
+21/05/12\Staines-upon-Thames, S Mary\Surrey\8\Placename officially amended\M Chester www.bbc.co.uk/news/uk-england-surrey-18118309\Verbal\Y\STAINES M
+21/05/12\Staines-upon-Thames, S Peter\Surrey\8\Placename officially amended\M Chester www.bbc.co.uk/news/uk-england-surrey-18118309\e-mail\Y\STAINES P
+21/05/12\Sudbury, S Peter\Suffolk\10\4th reported as being ringable (ie, broken gudgeon repaired)\George Lee\e-mail\N\SUDBURYSP
+21/05/12\Swallowfield\Berks\6\PN is Wed (not Thu)\Alan Barsby\e-mail\Y\SWALLOWFIE
+20/05/12\Bishopstone (SU28)\Wilts\8\Apparently, ringing no longer suspended\Mike Chester: Campanophile info (QP rung 08/05/2012)\e-mail\N\BISHOPSTON
+20/05/12\Boston\Lincs\10\Note added about two staircases to ringing chamber\TimJ#183 (info: Simon Pearson)\e-mail\Y\BOSTON LIN
+20/05/12\Knaresborough\N Yorks\8\Presence of simulator noted\TimJ#185 (info: RW2012/342f)\e-mail\Y\KNARESBORO
+20/05/12\North Hayling\Hants\3\u/r added, absence of stays and sliders noted\TimJ#185\e-mail\\NORTH HAYL
+20/05/12\North Hayling\Hants\3\Chancel (GF) ringing posn, st line (& 'dead') roping added\TimJ#185\e-mail\\NORTH HAYL
+18/05/12\Skelton in Cleveland\N Yorks\8\PN info added\Nabbers' Digest#3007(info: Neil Donovan)\JCB\Y\SKELTON IN
+18/05/12\Westwell\Kent\4\3rd is cracked\DrL Kent website\www\Y\WESTWELL
+17/05/12\Flitwick\Beds\6\URL added\\JCB\N\FLITWICK
+16/05/12\Shanklin\IoW\8\Ringing by local band temp suspended (until poss end May)\Mike Chester (Campanophile; + Kieran Downer info)\e-mail\N\SHANKLIN
+16/05/12\Waterloo\Gr London\8\PN info added (but CHECK first)\info from Surrey Assn webpage for tower\JCB\Y\WATERLOOWR
+15/05/12\Aston Rowant\Oxon\6\GF added\Philip Denton (conf'd by tower correspondent!)\e-mail\Y\ASTON ROWA
+15/05/12\Bolton, Halliwell\Gr Man\8\PN (temp) removed: to be decided soon; (Sun evening: now OK)\(Bells not rung for ~2yrs: twr problem) Raymond Jarrett\e-mail\Y\BOLTON HW
+15/05/12\Claverdon\Warks\6\PN is now Fri (was Tue)\Mike Chester\e-mail\Y\CLAVERDON
+13/05/12\Shrewsbury, S Chad\Shrops\12\Ringing resumed after tower repairs\Alan Glover\e-mail\N\SHREWSBRY
+12/05/12\North Hayling\Hants\3\Tenor wt & note added; nominal: D-5c; tuning descrptn added\Richard Offen (Alan Andrews' data)\pNBR\\NORTH HAYL
+12/05/12\Woodbridge\Suffolk\8\Ringing has resumed (after tower repairs)\Neal Dodge (info: EADT article)\e-mail\N\WOODBRIDGE
+11/05/12\Adlestrop\Glos\5\Tenor is not B; nominal Bb+19c\CJP nominals (per pNBR submission #9926)\e-mail\Y\ADLESTROP
+11/05/12\Averham\Notts\6\Tenor wt amended (was 12-3-22); bells now in foundry (JT)\Andrew Higson (submission #9928)\pNBR\Y\AVERHAM
+11/05/12\Bardon\Leics\3\Unringable; ADH (JT) inspection: frame in bad condition\Andrew Higson\e-mail\\BARDON
+11/05/12\Blaenavon\Torfaen\8\PN info changed (now wkly rather than 1st,3rd)\L&MDA website\www\Y\BLAENAVON
+09/05/12\Barton le Clay\Beds\8\Placename amended to OS version (without hyphens pro tem)\Sam Austin; OS Map (Fugawi CD version)\e-mail\Y\BARTON LE
+09/05/12\High Wycombe\Bucks\12\URL amended: 404 not found on version ....\www.allsaintshighwycombe.org/bellringers.htm\URLbad\N\HIGH WYCOM
+09/05/12\Orton on the Hill\Leics\6\URL amended (to be more specific to ringing)\Xenu check failing\URLbad\N\ORTON OTH
+09/05/12\Oxford, S Ebbe\Oxon\8\Ringing no longer suspended after WofA inspection\Simon Bond\e-mail\N\OXFORD  EB
+09/05/12\Sheepy Magna\Leics\6\URL amended (to be more specific to ringing)\\JCB\N\SHEEPY MAG
+09/05/12\Sibson\Leics\6\URL amended (to be more specific to ringing)\\JCB\N\SIBSON
+09/05/12\Twickenham, All Hallows\Gr London\10\URL removed: 404 not found ...\www.allhallowstwick.org.uk/?page_id=307\URLbad\N\TWICKENHAH
+09/05/12\Twycross\Leics\3\URL amended (to be more specific to ringing)\\JCB\\TWYCROSS
+08/05/12\Biggleswade\Beds\8\URL added; PN start time (from website) added\via Campanophile article\JCB\N\BIGGLESWAD
+08/05/12\Cuxton\Kent\6\PN amended to Wed (from Tue); 19:45 start\Doug Snoswell (KCACR PRO)\e-mail\Y\CUXTON
+07/05/12\Frampton on Severn\Glos\6\Bells now fully ringable: work complete\Matthew Higby\e-mail\N\FRAMPTONOS
+06/05/12\Canberra, Manuka\ACT\8\PN start time changed\Simon McMillan\e-mail\Y\CANBERRA
+06/05/12\London, S Dunstan-in-the-West\C London\10\Temp TowerBaseID: 9240 replaced by: 7155\JCB (info: TimJ)\TBchge\N\LONDON14DW
+04/05/12\Cullompton\Devon\10\PN changed to Thu (from Tue)\Richard Shere (Tower Capt)\e-mail\Y\CULLOMPTON
+03/05/12\Maldon, S Mary\Essex\6\Ringing suspended UFN following (WBF) inspection\Mike Chester (info: Essex Assn website per Jo Elliott)\e-mail\Y\MALDON  MA
+03/05/12\Orton\Cumbria\8\"Practice" info added: 10:00 - 12:00 2nd Sat\Mike Chester (info: CDG tower website)\e-mail\Y\ORTON
+03/05/12\Orton\Cumbria\8\No longer GF but rung from gallery; ringing resumed\Mike Chester (info: CDG tower website)\e-mail\Y\ORTON
+03/05/12\Oxford, Lincoln Coll\Oxon\8\Simulator now returned to Magdalen College\Michael Williams\e-mail\N\OXFORD CLI
+03/05/12\Oxford, Magdalen Coll\Oxon\10\Simulator now returned (from Lincoln College)\Michael Williams\e-mail\N\OXFORD CMA
+02/05/12\Canford Magna\Dorset\6\Refurbishment and rehanging completed: bells back in use\Kathryn Tyson\e-mail\N\CANFORD MA
+02/05/12\Thornborough\Bucks\5\Tenor note not G (nominal: F#-28c)\Philip Denton nominals\pNBR\Y\THORNBOROU
+01/05/12\London, Aldgate\C London\8\URL removed ( www.stbotolphs.org.uk ) 'no connection'\Xenu check (2 distinct occasions)\URLbad\N\LONDON12AL
+01/05/12\London, S Dunstan-in-the-West\C London\10\Additional ring: rung for first time 30/04/2012\Mike Chester (info: RW BellBoard)\e-mail\N\LONDON14DW
+30/04/12\Bunbury RC Cath\WA\8\URL amended\Simon McMillan\e-mail\N\BUNBURYWAR
+30/04/12\Maryborough\Qld\8\Bells recently removed for restoration (WBF)\Richard Offen\e-mail\N\MARYBOROUG
+28/04/12\Wroxall\Warks\3\Tenor note  not A (nominal: Bb-6c)\Chris Pickford (info: P Taylor 1955)\e-mail\\WROXALL
+27/04/12\Ilminster\Som\8\Wed PN now settled on 2,4,5; CHECKing first still advisable\David Floyd (info: Phil Hope)\e-mail\Y\ILMINSTER
+27/04/12\Milton Keynes, Loughton\Bucks\6\Although tenor nearer Ab (Ab-36c), ring nearer G\Philip Denton nominals\e-mail\Y\MILTONKY18
+27/04/12\Winchester Cath\Hants\14\URL added\George Medd\e-mail\N\WINCHESTE
+25/04/12\Brinklow\Warks\8\Now augmented to 8 (JT) and ringing\Andrew Higson\pNBR\Y\BRINKLOW
+25/04/12\Edinburgh, SS Andrew & George\C Edin\8\Ringing suspended prob until Chmas 2012 (building work)\Mike Clay\e-mail\N\EDINBURGHA
+25/04/12\Mildenhall\Suffolk\10\Tenor (and ring) note slightly closer to Eb than E (Eb+43c)\Nominals supplied by Andrew Higson\pNBR\Y\MILDENHL S
+24/04/12\Frodsham\Cheshire\8\Tower repair work (~9wks): all ringing suspended pro tem\Mike Chester (info: Campanophile, per Duncan Hyde)\e-mail\N\FRODSHAM
+24/04/12\Norwich, S Giles\Norfolk\8\Tower repairs: ringing suspended (PN >> All Saints Centre)\Faith Pearce\e-mail\N\NORWICH GI
+24/04/12\Shenfield\Essex\6\Precise tenor wt supplied; work to 5,6 completed; URL added\Roger Butt\e-mail\Y\SHENFIELD
+23/04/12\Penrith\Cumbria\8\For practice access, and toilet access, see tower website\Duncan Walker\e-mail\Y\PENRITH
+22/04/12\Bradford, Tong\W Yorks\6\PN info added\Louise Connacher (Tower Capt)\e-mail\Y\BRADFOD TO
+22/04/12\Conington (TL18)\Cambs\6\Anticlockwise added\Sue Marsden\e-mail\Y\CONINGTONA
+22/04/12\Frampton on Severn\Glos\6\Rest'n work sufficiently completed to allow bells to be rung\Jack Hunt; Matthew Higby\e-mail\N\FRAMPTONOS
+22/04/12\Henley in Arden\Warks\6\PN amended (from Thu): now Wed 19:00 - 20:15\Mike Chester (info: tower secretary)\e-mail\Y\HENLEY IN
+22/04/12\Holme Pierrepont\Notts\6\Postcode amended (from NG4 2JT)\Anne Sladen\e-mail\N\HOLME PIER
+22/04/12\Wethersfield\Essex\8\PN info amended (from Fri)\Colin Chapman\e-mail\Y\WETHERSFIE
+21/04/12\Appleby Magna\Leics\6\Ringing suspended: structural problems with the spire\Brenda Parr (Br Treasurer, info via Twr Rep)\e-mail\N\APPLEBYMAG
+18/04/12\Dilhorne\Staffs\6\Octagonal plan of tower noted\Jonathan Dickenson\e-mail\Y\DILHORNE
+18/04/12\Rothwell\Northants\10\URL bad - login required: removed\Xenu search\URLbad\N\ROTHWELL N
+17/04/12\Chelmsford Cath\Essex\12\URL amended\Colin Chapman\e-mail\N\CHELMSFORD
+16/04/12\Roos\ER Yorks\5\Ringing now ceased: to be overhauled, and to become 6\Mike Chester (info: Campanophile)\e-mail\Y\ROOS
+15/04/12\Averham\Notts\6\Now unringable: to be taken down May 2012 for restoration\Martin Cooper\e-mail\Y\AVERHAM
+15/04/12\Gamlingay\Cambs\8\PN added\Tower website\JCB\Y\GAMLINGAY
+14/04/12\Gamlingay\Cambs\8\URL amended\John Boocock (Tower Captain)\e-mail\N\GAMLINGAY
+12/04/12\Leaton\Shrops\5\There are NOT 2 staircases to ringing chamber\Alan Glover\e-mail\N\LEATON
+11/04/12\Lye, The\W Mids\8\Tenor weight amended\'Finished weights' supplied by Matthew Higby\e-mail\Y\LYE
+11/04/12\Probus\Cornwall\8\PN info amended\Peter Burton (Tower Sec)\e-mail\Y\PROBUS
+10/04/12\Bury St Edmunds Cath\Suffolk\12\New trebles now hung\Jed Flatters\e-mail\Y\BURY ST ED
+10/04/12\Condover\Shrops\8\PN info added\Gareth Jones\e-mail\Y\CONDOVER
+10/04/12\Sheffield Cath\S Yorks\12\Note added about 3 routes to ringing chamber\David Bryant\e-mail\Y\SHEFFIEL
+09/04/12\Otham\Kent\6\No longer straight line roping\Tim Jackson\e-mail\Y\OTHAM
+08/04/12\Otham\Kent\6\Now a ring of 6 and have been rung as such; augmented from 3\Alan Phipps; TimJ\e-mail\Y\OTHAM
+06/04/12\Bamford in the Peak\Derbys\6\PN sharing between Bamford in the Peak and Hathersage added\Cheryl Harman\e-mail\Y\BAMFORD IN
+06/04/12\Exeter\ON\6\URL added\Carl Zimmerman\e-mail\N\EXETERCANA
+06/04/12\Hathersage\Derbys\6\PN sharing between Bamford in the Peak and Hathersage added\Cheryl Harman\e-mail\Y\HATHERSAGE
+04/04/12\Great Chart\Kent\8\Tenor has now been welded (and being rung again)\Mike Chester (conf: Graham Coker)\e-mail\N\GREAT CHAR
+04/04/12\Wilburton\Cambs\6\No longer GF: ringing gallery installed\Sue Marsden\e-mail\Y\WILBURTON
+03/04/12\Stoke Canon\Devon\6\Restoration work completed and ringing again: u/r removed\Ryan Trout\e-mail\Y\STOKE CANO
+03/04/12\Wickhambreaux\Kent\6\Practice not always held: check advised; URL amended\Michael Keeler, Tower Captain\e-mail\Y\WICKHAMBRE
+02/04/12\Telford, Wellington\Shrops\8\Ringing apparently no longer suspended\TimJ (info: Mark Adams; Campanophile peal report)\e-mail\N\TELFORDWEL
+02/04/12\Uffculme\Devon\8\Ringing apparently resumed\TimJ (info: Geoff Horritt)\e-mail\N\UFFCULME
+31/03/12\Lea Marston\Warks\3\URL amended\Quentin Howell\e-mail\\LEA MARSTO
+31/03/12\Nether Whitacre\Warks\6\URL amended\Quentin Howell, Tower Captain\e-mail\N\NETHER WHI
+31/03/12\Nocton\Lincs\6\Ringing resumes (after repairs to roof) wef Easter Day\Chris Woodcock\e-mail\N\NOCTON
+30/03/12\Bournemouth, Sacred Heart\Dorset\6\URL amended\Xenu check\URLbad\N\BOURNEM  S
+30/03/12\Cromer\Norfolk\6\URL removed - no connection\Xenu check\URLbad\N\CROMER
+30/03/12\Exeter\ON\6\URL removed\Facebook login reqd - inappropriate for general use\URLbad\N\EXETERCANA
+30/03/12\Langley Burrell\Wilts\6\URL removed - 404 error\Xenu check\URLbad\N\LANGLEY BU
+30/03/12\Oxford Cath\Oxon\12\URL amended\Xenu check\URLbad\N\OXFORD   C
+30/03/12\Oxford, S Mary V\Oxon\6\URL amended\Xenu check\URLbad\N\OXFORD  MV
+30/03/12\Oxford, Carfax\Oxon\6\URL amended\Xenu check\URLbad\N\OXFORD CFX
+30/03/12\Oxford, Lincoln Coll\Oxon\8\URL amended\Xenu check\URLbad\N\OXFORD CLI
+30/03/12\Oxford, Magdalen Coll\Oxon\10\URL amended\Xenu check\URLbad\N\OXFORD CMA
+30/03/12\Oxford, Merton Coll\Oxon\8\URL amended\Xenu check\URLbad\N\OXFORD CME
+30/03/12\Oxford, New Coll\Oxon\10\URL amended\Xenu check\URLbad\N\OXFORD CNE
+30/03/12\St Enoder\Cornwall\8\URL amended\Xenu check\URLbad\N\SAI ENODER
+29/03/12\Bristol, Redcliffe\C Bris\12\URL removed - 'forbidden' !\Xenu check\URLbad\N\BRISTOL 21
+29/03/12\Farnborough\Gr London\6\Temp TowerBaseID: 9884 replaced by: 7755\JCB\TBchge\N\FARNBOROKE
+29/03/12\London, S James Garlickhythe\C London\8\Temp TowerBaseID: 9873 replaced by: 7756\JCB\TBchge\N\LONDON16JG
+29/03/12\Ludlow\Shrops\10\URL amended\Xenu check\URLbad\N\LUDLOW
+24/03/12\Fleggburgh\Norfolk\3\Tenor note added\Neil Thomas\pNBR\\FLEGGBURGH
+24/03/12\Folkestone, Cheriton\Kent\8\Rehang now apparently complete\TimJ (info: QP  9/10/11 on Campanophile)\e-mail\N\FOLKESTN C
+23/03/12\Westhall\Suffolk\5\Treble now noted as welded\Philip Denton\e-mail\N\WESTHALL
+22/03/12\Birmingham, Moseley S Mary\W Mids\10\URL amended\Tower website redirection\JCB\N\BIRMIN MS4
+22/03/12\Chevening\Kent\8\(Tue) Practices cancelled UFN\Mike Chester (info: Kent CA website)\e-mail\Y\CHEVENING
+21/03/12\Blankney\Lincs\6\Ringing suspended: tower repairs\Chris Woodcock\e-mail\N\BLANKNEY
+21/03/12\Cowley\Glos\6\No ringing until at least June 2012: ch closed(roof repairs)\Simon Webb\e-mail\N\COWLEY
+20/03/12\Burmarsh\Kent\6\PN amended (from Mon 19:00)\Mike Chester (info: Aby Buck via Campanophile)\e-mail\Y\BURMARSH

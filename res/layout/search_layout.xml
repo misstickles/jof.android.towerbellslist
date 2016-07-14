@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/search_place_text" />
+
+	    <EditText
+	        android:id="@+id/search_text"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/search_no_bells_text" />
+
+	    <Spinner
+	        android:id="@+id/search_no_bells_spinner"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/search_practice_night_text" />
+
+	    <Spinner
+	        android:id="@+id/search_practice_night_spinner"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+    
+    <LinearLayout style="@style/ItemRow">
+        <TextView
+            style="@style/DescTitle"
+            android:text="@string/search_county_text" />
+
+	    <Spinner
+	        style="@style/Spinner"
+	        android:id="@+id/search_county_spinner"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+	    <ListView
+	        android:id="@android:id/list"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_margin="10dp"
+	        android:fastScrollEnabled="true"        
+	        />
+	    
+	    <TextView
+	        android:id="@android:id/empty"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:text="@string/no_towers_found"
+	        />
+    </LinearLayout>
+    
+</LinearLayout>
